@@ -1,0 +1,3 @@
+node_modules
+/Backend/serviceAccountKey.json
+/Backend/__pycache__/
